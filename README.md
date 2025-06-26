@@ -12,4 +12,4 @@ Passionate about software development and focused on building performant apps
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=superdevstar50&count_private=true&show_icons=true&include_all_commits=true&theme=calm" alt="Mirian Okradze => Stats" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superdevstar50&" alt="Mirian Okradze" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=superdevstar50&" alt="Anton Zinych" /></p>
